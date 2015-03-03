@@ -1,0 +1,9 @@
+E:\APP\AutoSmartPhoneBackup\AutoSmartPhoneBackup\bin\Debug\AutoSmartPhoneBackup.exe.config
+E:\APP\AutoSmartPhoneBackup\AutoSmartPhoneBackup\bin\Debug\AutoSmartPhoneBackup.exe
+E:\APP\AutoSmartPhoneBackup\AutoSmartPhoneBackup\bin\Debug\AutoSmartPhoneBackup.pdb
+E:\APP\AutoSmartPhoneBackup\AutoSmartPhoneBackup\obj\Debug\AutoSmartPhoneBackup.csprojResolveAssemblyReference.cache
+E:\APP\AutoSmartPhoneBackup\AutoSmartPhoneBackup\obj\Debug\AutoSmartPhoneBackup.AutoBKMain.resources
+E:\APP\AutoSmartPhoneBackup\AutoSmartPhoneBackup\obj\Debug\AutoSmartPhoneBackup.Properties.Resources.resources
+E:\APP\AutoSmartPhoneBackup\AutoSmartPhoneBackup\obj\Debug\AutoSmartPhoneBackup.csproj.GenerateResource.Cache
+E:\APP\AutoSmartPhoneBackup\AutoSmartPhoneBackup\obj\Debug\AutoSmartPhoneBackup.exe
+E:\APP\AutoSmartPhoneBackup\AutoSmartPhoneBackup\obj\Debug\AutoSmartPhoneBackup.pdb
